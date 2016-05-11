@@ -1,0 +1,1 @@
+docker exec $1 sh -c 'curl -L -O http://download.elastic.co/beats/dashboards/beats-dashboards-1.2.2.zip && unzip beats-dashboards-1.2.2.zip && cd beats-dashboards-1.2.2/ && ./load.sh'
