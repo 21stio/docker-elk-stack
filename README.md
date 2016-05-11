@@ -25,3 +25,6 @@ If you are using docker-machine on a Mac, simply run
 ```sh
 open http:`docker-machine ip`:5601
 ```
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/21stio/docker-elk-stack/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
